@@ -1,0 +1,12 @@
+{
+	"Name" 	  : "Name",
+	"Company" : "Company",
+	"Mail" 	  : "Mail",
+	"Comment" : "Comment",
+	"Option"  : "Option",
+	"Summary" : "Summary",
+	"Subject" : "Subject",
+	"Content" : "Content",
+	"Message" : "Message",
+	"Year" 	  : "Year"	
+}
