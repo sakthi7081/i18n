@@ -1,0 +1,12 @@
+{
+	"Name" 	  : "名",
+	"Company" : "会社",
+	"Mail" 	  : "郵便物",
+	"Comment" : "コメント",
+	"Option"  : "オプション",
+	"Summary" : "概要",
+	"Subject" : "主題",
+	"Content" : "コンテンツ",
+	"Message" : "メッセージ",
+	"Year" 	  : "年"
+}
