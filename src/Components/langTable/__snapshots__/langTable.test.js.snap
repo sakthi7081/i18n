@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table Component Should match the snapShot 1`] = `
+<WithStyles(ForwardRef(Paper))
+  className="sc-AxhCb jAkNLU"
+  data-test="Table-Component"
+  elevation={6}
+>
+  <Grid
+    columns={
+      Array [
+        Object {
+          "name": "key",
+          "title": "key",
+        },
+        Object {
+          "name": "en",
+          "title": "en",
+        },
+        Object {
+          "name": "ta",
+          "title": "ta",
+        },
+        Object {
+          "name": "te",
+          "title": "te",
+        },
+        Object {
+          "name": "hi",
+          "title": "hi",
+        },
+        Object {
+          "name": "ml",
+          "title": "ml",
+        },
+        Object {
+          "name": "it",
+          "title": "it",
+        },
+        Object {
+          "name": "ja",
+          "title": "ja",
+        },
+      ]
+    }
+    data-test="Grid"
+    rows={
+      Array [
+        Object {
+          "en": "Data",
+          "hi": "Data",
+          "it": "Data",
+          "ja": "Data",
+          "key": "Data",
+          "ml": "Data",
+          "ta": "",
+          "te": "",
+        },
+        Object {
+          "en": "",
+          "hi": "",
+          "it": "",
+          "ja": "",
+          "key": "Value",
+          "ml": "",
+          "ta": "value",
+          "te": "",
+        },
+      ]
+    }
+  >
+    <Component />
+    <SortingStateBase
+      columnSortingEnabled={true}
+      defaultSorting={Array []}
+    />
+    <IntegratedSortingBase />
+    <SearchStateBase
+      defaultValue=""
+    />
+    <IntegratedFilteringBase />
+    <Component />
+    <Component
+      defaultOrder={
+        Array [
+          "key",
+          "en",
+          "ta",
+          "te",
+          "hi",
+          "ml",
+          "it",
+          "ja",
+        ]
+      }
+    />
+    <Component
+      cellComponent={[Function]}
+      data-test="Header"
+      rowComponent={[Function]}
+      showSortingControls={true}
+    />
+    <Component />
+    <Component />
+    <Component
+      cellComponent={[Function]}
+      data-test="Fixed-Column"
+      leftColumns={
+        Array [
+          "key",
+        ]
+      }
+    />
+  </Grid>
+</WithStyles(ForwardRef(Paper))>
+`;

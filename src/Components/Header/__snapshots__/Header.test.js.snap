@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component Should match the snapShot 1`] = `
+<Styled(WithStyles(ForwardRef(Paper)))
+  data-test="Header-Component"
+  elevation={0}
+>
+  <styled.div
+    data-test="Title"
+  >
+    <Styled(TranslateIcon) />
+    Multi Language
+  </styled.div>
+</Styled(WithStyles(ForwardRef(Paper)))>
+`;
